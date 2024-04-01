@@ -15,4 +15,5 @@
 - 无需有注册公司，每笔销售价格按固定百分比给系统分成，无法修改。
 - [下载](https://github.com/dhrdzy/KnowledgePayment_Server/tree/main/测试体验)
 
-<img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/1.jpg" width="13%" hight="13%"> 
+<img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/2.png" width="13%" hight="13%">
+<img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/1.jpg" width="13%" hight="13%"> 

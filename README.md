@@ -12,6 +12,7 @@
 # 企业独立完整版（5000元）
 - 必须有注册公司才能用，一次付费终生使用，下载后一键启动服务器。
 - [下载](https://github.com/dhrdzy/KnowledgePayment_Server/releases/download/1.0.0.1/KnowledgePayment_Server_Enterprise.zip)
+- 解压后双击打开“知识付费服务器.exe”进行激活，激活绑定硬件，更换硬件后无法使用。
 
 # 企业版本配置方法
 - 1、去[支付宝开放平台](https://openhome.alipay.com/) 注册一个企业支付宝账户。

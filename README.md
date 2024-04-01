@@ -7,10 +7,14 @@
 - 你可以通过这个服务器迅速创建自己的知识付费服务器，迅速创业
 - 课程永久就免费自动更新！
 
+<img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/2.png" width="13%" hight="13%">
+<img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/1.jpg" width="13%" hight="13%"> 
+
 # 企业独立完整版（5000元）
 - 必须有注册公司才能用，一次付费终生使用，下载后一键启动服务器。
 - [下载](https://github.com/dhrdzy/KnowledgePayment_Server/releases/download/1.0.0.1/KnowledgePayment_Server_Enterprise.zip)
-如何配置：
+
+# 企业版本配置方法
 - 1、去[支付宝开放平台](https://openhome.alipay.com/) 注册一个企业支付宝账户。
 - 2、申请一个网页应用，填入所有必要的信息。
 - 3、配置“appid.txt”文件内容：将刚申请的网页应用的appid粘贴到appid.txt内，不要有换行，保存并关闭即可。
@@ -22,6 +26,3 @@
 # 代理销售个人版（免费）
 - 无需有注册公司，每笔销售价格按固定百分比给系统分成，无法修改。
 - [下载](https://github.com/dhrdzy/KnowledgePayment_Server/tree/main/测试体验)
-
-<img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/2.png" width="13%" hight="13%">
-<img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/1.jpg" width="13%" hight="13%"> 

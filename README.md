@@ -9,7 +9,7 @@
 
 <img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/1.jpg" width="5%" hight="5%"> 
 
-# 企业独立完整版（5000元）
+# 企业独立完整版（5000元，不跟系统分成）
 - 必须有注册公司才能用，一次付费终生使用，下载后一键启动服务器。
 - [下载](https://github.com/dhrdzy/KnowledgePayment_Server/releases/download/1.0.0.1/KnowledgePayment_Server_Enterprise.zip)
 - 解压后双击打开“知识付费服务器.exe”进行激活，激活绑定硬件，更换硬件后无法使用。
@@ -23,6 +23,6 @@
 - 6、双击启动exe。
 - 7、此时，外网可以直接通过公网IP直接访问，内网的话通过路由器进行端口映射后即可访问。
 
-# 代理销售个人版（免费）
+# 代理销售个人版（免费，永久与系统固定分成）
 - 无需有注册公司，每笔销售价格按固定百分比给系统分成，无法修改。
 - [下载](https://github.com/dhrdzy/KnowledgePayment_Server/tree/main/测试体验)

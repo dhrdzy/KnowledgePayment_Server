@@ -7,8 +7,7 @@
 - 你可以通过这个服务器迅速创建自己的知识付费服务器，迅速创业
 - 课程永久就免费自动更新！
 
-<img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/2.png" width="13%" hight="13%">
-<img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/1.jpg" width="13%" hight="13%"> 
+<img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/1.jpg" width="5%" hight="5%"> 
 
 # 企业独立完整版（5000元）
 - 必须有注册公司才能用，一次付费终生使用，下载后一键启动服务器。

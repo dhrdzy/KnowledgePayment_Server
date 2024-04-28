@@ -5,7 +5,7 @@
 - 无企业：做代理，做推广，拿分成
 - 有企业：自己运营网站，独立收益，可招代理和推广，分成自行设置。
 - 你可以通过这个服务器迅速创建自己的知识付费服务器，迅速创业
-- 课程永久就免费自动更新！（开发中）
+- 课程永久就免费自动更新！
 
 <img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/2.png" width="13%" hight="13%"> <img decoding="async" src="https://github.com/dhrdzy/KnowledgePayment_Server/blob/main/image/1.jpg" width="5%" hight="5%"> 
 
